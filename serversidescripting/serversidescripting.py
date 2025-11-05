@@ -6,12 +6,8 @@ from frappe.model.document import Document
 
 
 class ServerSideScripting(Document):
-
-
-
-       
         
-    ############ validate trigger before data in database and then data save in db
+    ############ validate trigger before data Save in database and then data save in db
 	# 1.## def validate(self):
     #       frappe.msgprint("hello this is server side doctype")
     
