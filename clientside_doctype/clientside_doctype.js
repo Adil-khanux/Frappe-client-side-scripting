@@ -89,7 +89,7 @@
     //     frappe.msgprint(__("The full name is '{0}' ",
     //         [frm.doc.first_name +" " +frm.doc.middle_name +" "+ frm.doc.last_name]))
      
-4.    //     /////// for fetching child value  we use loop for (i in range)
+4.    //     /////// for fetching child value  we use loop for (i in range) but we use js  for (let i row of field y jiss pr loop lgana  h )
     //   after_save(frm){
 
     //     for (let row of frm.doc.family_member){  this is loop will run untill table have row
