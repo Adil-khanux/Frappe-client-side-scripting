@@ -10,7 +10,7 @@
 
 	// },
 
-    // onload(frm){
+    // onload(frm){ when page is load not refresh (after save,submit etc)
     //     frappe.msgprint("Hello Adil from'onload' event")
     // }
 
