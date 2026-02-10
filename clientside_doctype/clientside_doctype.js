@@ -14,7 +14,7 @@
     //     frappe.msgprint("Hello Adil from'onload' event")
     // }
 
-    //  validate(frm){
+    //  validate(frm){ its work after save and before save 
     //     frappe.throw ("Hello Adil from'validate' event");
         
     // },
